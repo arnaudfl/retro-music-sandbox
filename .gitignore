@@ -1,0 +1,14 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary and backup audio
+*.tmp
+*.bak
+*.wav
+*.aiff
+*.flac

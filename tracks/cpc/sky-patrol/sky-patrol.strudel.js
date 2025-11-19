@@ -1,4 +1,4 @@
-// "Sky Patrol" – CPC 6128 Flight Theme
+// "Sky Patrol" – CPC 6128 Flight Theme @by arnaudfl
 // Original composition, 3-voice AY-style
 
 setcpm(82/4)

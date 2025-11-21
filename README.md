@@ -60,6 +60,12 @@ More tracks for C64, Amiga, and Atari ST will be added later.
 
 ---
 
+## Artwork Credits
+
+All pixel-art images, mockups, and visual concepts in this repository were generated using Nano Banana.
+
+---
+
 ## License
 
 Up to you — suggestions:

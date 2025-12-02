@@ -56,6 +56,11 @@ Technical documentation:
   A heroic flight theme inspired by 80s shooters.  
   Uses 3 voices (bass, arpeggios, lead) and a simple chord progression.
 
+- **Blade of Atheryon**  
+  Path: `tracks/cpc/blade-of-atheryon/`  
+  A dark heroic fantasy action-adventure game.  
+  Includes **Stage 1** (mystical E Dorian forest theme) and **Boss 1** (tense C Phrygian battle music).
+
 More tracks for C64, Amiga, and Atari ST will be added later.
 
 ---

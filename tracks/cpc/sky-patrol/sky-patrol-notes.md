@@ -30,7 +30,7 @@
 
 ---
 
-# Track Information
+## Track Information
 
 - **Machine**: Amstrad CPC 6128  
 - **Chip**: AY-3-8912  
